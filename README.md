@@ -4,7 +4,7 @@ Aplicacion web para administrar respuestas de empresas sobre practicas o pasanti
 
 La version publicada esta disponible en:
 
-[https://harmonious-crostata-ba20e7.netlify.app/](https://harmonious-crostata-ba20e7.netlify.app/)
+https://6a14b9435c167254fd60f711--autopracticas.netlify.app/
 
 ## Funciones principales
 
