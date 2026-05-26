@@ -28,10 +28,6 @@ Aplicacion:
 - `https://*.netlify.app/*`
 - `https://*.vercel.app/*`
 
-La app publicada actual es:
-
-[https://harmonious-crostata-ba20e7.netlify.app/](https://harmonious-crostata-ba20e7.netlify.app/)
-
 ## Uso
 
 1. Abre un correo en Gmail u Outlook Web.
