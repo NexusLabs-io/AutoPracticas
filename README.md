@@ -6,6 +6,10 @@ La version publicada esta disponible en:
 
 https://6a14b9435c167254fd60f711--autopracticas.netlify.app/
 
+Usuario: user1
+Contraseña: user1
+de lo contrario usar olvidar contraseña y borrar todo.
+
 ## Funciones principales
 
 - Registro e inicio de sesion local en el navegador.
@@ -18,7 +22,7 @@ https://6a14b9435c167254fd60f711--autopracticas.netlify.app/
 
 ## Usar la app publicada
 
-1. Abre [AutoPracticas en Netlify](https://harmonious-crostata-ba20e7.netlify.app/).
+1. Abre [AutoPracticas en Netlify]([https://harmonious-crostata-ba20e7.netlify.app/](https://6a14b9435c167254fd60f711--autopracticas.netlify.app/)).
 2. Crea tu usuario, contrasena y palabra secreta de recuperacion.
 3. Carga la extension del navegador si quieres capturar correos directamente.
 4. Configura una API key en `Configuracion > IA` solo si quieres mejorar la extraccion automatica.
